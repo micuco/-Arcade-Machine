@@ -1,4 +1,3 @@
-# Arcade-Machine
 # Pong - Arcade Machine Assignment
 
 This project is an implementation of the Pong game for the Arcade Machine assignment.
