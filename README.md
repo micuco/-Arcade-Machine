@@ -34,6 +34,3 @@ The project includes a spaceship editor and a Pong game. The player first builds
 
 Open the project in Visual Studio, build it, and run. Use the editor to create a ship, then press start to begin the game.
 
-## Notes
-
-Only the Pong version of the assignment was implemented.
